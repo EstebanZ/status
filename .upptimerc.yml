@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoes.notexist
+  - name: SIORM
+    url: https://siorm.com.ar
 
 assignees:
   - estebanz
