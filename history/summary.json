@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 76,
-    "timeWeek": 132,
-    "timeMonth": 187,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 189,
+    "timeDay": 150,
+    "timeWeek": 144,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "SIORM",
