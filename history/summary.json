@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 138,
-    "timeWeek": 94,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 168,
+    "timeDay": 116,
+    "timeWeek": 99,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 204,
-    "timeWeek": 160,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 138,
+    "timeDay": 207,
+    "timeWeek": 153,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 128,
-    "timeWeek": 137,
-    "timeMonth": 185,
-    "timeYear": 185,
-    "dailyMinutesDown": {
-      "2022-03-08": 11
-    }
+    "time": 182,
+    "timeDay": 139,
+    "timeWeek": 141,
+    "timeMonth": 182,
+    "timeYear": 182,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SIORM",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 626,
-    "timeWeek": 538,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "time": 415,
+    "timeDay": 591,
+    "timeWeek": 541,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   }
 ]
