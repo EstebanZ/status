@@ -58,9 +58,9 @@
     "url": "https://siorm.com.ar",
     "icon": "https://favicons.githubusercontent.com/siorm.com.ar",
     "slug": "siorm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 447,
     "timeMonth": 399,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   }
 ]
