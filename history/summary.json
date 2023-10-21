@@ -68,11 +68,11 @@
     "url": "https://siorm.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/siorm.com.ar.ico",
     "slug": "siorm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 425,
     "timeDay": 1141,
@@ -80,7 +80,7 @@
     "timeMonth": 585,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-10-21": 24
+      "2023-10-21": 18
     }
   }
 ]
