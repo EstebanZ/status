@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 73,
-    "timeWeek": 77,
-    "timeMonth": 100,
+    "timeDay": 58,
+    "timeWeek": 73,
+    "timeMonth": 99,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 659,
-    "timeWeek": 258,
-    "timeMonth": 226,
+    "timeDay": 200,
+    "timeWeek": 270,
+    "timeMonth": 228,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2023-09-12": 15
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 370,
-    "timeDay": 293,
-    "timeWeek": 274,
-    "timeMonth": 293,
+    "time": 371,
+    "timeDay": 360,
+    "timeWeek": 315,
+    "timeMonth": 291,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2024-01-10": 83,
@@ -68,17 +68,16 @@
     "slug": "siorm",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
-    "timeDay": 205,
-    "timeWeek": 372,
-    "timeMonth": 317,
+    "timeDay": 215,
+    "timeWeek": 339,
+    "timeMonth": 319,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-06-08": 6,
       "2023-10-21": 18
     }
   }
