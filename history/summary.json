@@ -68,9 +68,9 @@
     "slug": "siorm",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 454,
@@ -78,7 +78,6 @@
     "timeMonth": 298,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-06-17": 4,
       "2023-10-21": 18
     }
   }
