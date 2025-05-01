@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 93,
-    "timeWeek": 89,
-    "timeMonth": 107,
+    "timeDay": 73,
+    "timeWeek": 86,
+    "timeMonth": 106,
     "timeYear": 107,
-    "dailyMinutesDown": {
-      "2024-05-01": 31
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 68,
-    "timeWeek": 128,
+    "timeDay": 41,
+    "timeWeek": 89,
     "timeMonth": 305,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 412,
-    "timeWeek": 326,
-    "timeMonth": 282,
+    "timeDay": 421,
+    "timeWeek": 331,
+    "timeMonth": 294,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 341,
-    "timeDay": 197,
-    "timeWeek": 291,
-    "timeMonth": 347,
+    "time": 340,
+    "timeDay": 177,
+    "timeWeek": 288,
+    "timeMonth": 336,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-03-08": 15,
